@@ -1,0 +1,46 @@
+.bg {
+  background-image:  url("./Images/homeback.jpg"); 
+  z-index: -1;
+  height: 100%; 
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;  
+  
+}
+
+#splashscreen{
+    
+    
+    
+    
+    
+  margin: 0 auto;
+ 
+  
+}
+#splashBox {
+  margin: 0 auto;
+  
+  padding: 4%;
+  margin-top: 5%;
+}
+
+
+
+
+/*@media screen and (max-width: 980px){
+
+
+}
+
+@media screen and (max-width: 768px){
+
+
+}
+
+@media screen and (max-width: 640px){
+  .container {
+    width: 100%;
+  }
+  
+  }*/
